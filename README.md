@@ -1,5 +1,4 @@
-# Smart-Health-Companion
-## MediMind AI – Smart Health Companion
+# Smart Health Companion
 
 ### Project Description
 MediMind AI is an advanced health management ecosystem designed to bridge the gap between clinical consultations and daily home care. Leveraging Artificial Intelligence (LLM) and OCR technology concepts, the application acts as a personal medical assistant that helps patients—especially seniors and those with chronic conditions—adhere to complex treatment plans.
